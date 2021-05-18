@@ -1,6 +1,9 @@
 <template>
   <div>
     <Nuxt />
+    <Alert />
+    <Confirm />
+    <Prompt />
   </div>
 </template>
 
