@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="popup">
     <h3>Confirm Title</h3>
     <p>Confirm description</p>
     <button>Cancel</button>
@@ -12,7 +12,3 @@ export default {
 
 }
 </script>
-
-<style>
-
-</style>

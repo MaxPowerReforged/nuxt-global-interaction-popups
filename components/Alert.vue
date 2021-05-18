@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="popup">
     <h3>Alert Title</h3>
     <p>Alert description</p>
     <button>Accept</button>
@@ -11,7 +11,3 @@ export default {
 
 }
 </script>
-
-<style>
-
-</style>

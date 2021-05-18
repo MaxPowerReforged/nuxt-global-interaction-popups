@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="popup">
     <h3>Prompt Title</h3>
     <p>Prompt description</p>
     <input type="text">
@@ -12,7 +12,3 @@ export default {
 
 }
 </script>
-
-<style>
-
-</style>
