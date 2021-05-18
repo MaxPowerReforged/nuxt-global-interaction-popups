@@ -1,6 +1,6 @@
-# global-interaction-popups
+# Nuxt global interaction popups
 
-## Build Setup
+## Nuxt build Setup
 
 ```bash
 # install dependencies
@@ -17,4 +17,3 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
